@@ -1,1 +1,14 @@
-
+tubaki{
+  font-family: 'ＭＳ 明朝';
+}
+h1{
+  background: #FFFFEE;
+    width: 140px;
+   text-align: center;
+    border: 2px solid #000080;
+  margin: 30px auto;
+}
+p{
+  font-family: 'メイリオ';
+   text-align: center;
+}
