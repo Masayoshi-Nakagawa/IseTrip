@@ -1,12 +1,12 @@
 tubaki{
-  font-family: 'ＭＳ 明朝';
   text-align: center;
 }
 h1{
   background: #FFFFEE;
-    width: 140px;
-    border: 2px solid #000080;
+  width: 140px;
+  border: 2px solid #000080;
   margin: 30px auto;
+  font-family: 'ＭＳ 明朝';
 }
 h3{
   font-family: 'メイリオ';
@@ -14,4 +14,7 @@ h3{
 video{
   width: 100%;
   height: 500px;
+}
+ise{
+  text-align: center;
 }
